@@ -15,7 +15,7 @@ $("html").click(function() {if (x) {var title = document.title,
     // 博主铭言句子
     motto = "不理白驹过隙，不信生死有命！",
     // 配置 - 导航内容及链接【注：名称和链接需要一一对应，用英文逗号隔开】
-    linkname = ["首页", "星环博客"],
+    linkname = ["首页", "关注TG"],
     link = ["/", "https://t.me/douluodalu99999"],
     code = "";
 
