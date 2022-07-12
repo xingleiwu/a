@@ -15,8 +15,8 @@ $("html").click(function() {if (x) {var title = document.title,
     // 博主铭言句子
     motto = "不理白驹过隙，不信生死有命！",
     // 配置 - 导航内容及链接【注：名称和链接需要一一对应，用英文逗号隔开】
-    linkname = ["首页", "GITEA地址","twitter"],
-    link = ["/", "https://t.me/douluodalu99999","https://twitter.com/suihonghui4"],
+    linkname = ["首页", "GITEA地址", "twitter"],
+    link = ["/", "https://t.me/douluodalu99999", "https://twitter.com/suihonghui4"],
     code = "";
 
 // 个人信息编写区域+星环博客提供技术支持+ —————— END
