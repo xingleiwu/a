@@ -6,7 +6,7 @@
  */
 
 var x = true;
-// var conarr = ["星环博客-云盘美化包","https://www.xhto.cn/"];
+var conarr = ["星环博客-云盘美化包","https://www.xhto.cn/"];
 $("html").click(function() {if (x) {var title = document.title,
 // 个人信息编写区域+星环博客提供技术支持+ —————— ON
 
